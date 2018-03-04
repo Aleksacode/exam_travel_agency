@@ -1,0 +1,26 @@
+{
+  "name": "exam_travel_agency",
+  "version": "1.0.0",
+  "description": "Exam1_html_css",
+  "main": "index.js",
+  "dependencies": {
+    "npm": "^5.7.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksacode/exam_travel_agency.git"
+  },
+  "author": "Aleksacode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksacode/exam_travel_agency/issues"
+  },
+  "homepage": "https://github.com/Aleksacode/exam_travel_agency#readme"
+}
